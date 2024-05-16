@@ -18,13 +18,10 @@ It is a system to predict flight fares. It considers factors like number of layo
 ├── static 
 │   ├── style.css
 ├── templates
-│   ├── index.html
-│   ├── result.html
+│   ├── home.html
 ├── Flight_Fare_Prediction.ipynb
-├── Procfile
 ├── README.md
 ├── app.py
-├── flightfarepred.gif
 ├── requirements.txt
 ```
 
