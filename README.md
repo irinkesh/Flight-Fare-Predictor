@@ -6,7 +6,10 @@
 The objective of this project is to calculate the fare of a flight journey based on various parameters such as source,destination,no. of stops, etc.
 
 
-https://github.com/irinkesh/Flight-Fare-Predictor/assets/159822614/098df84b-2a41-4518-801d-da9e7d88ad9b
+
+
+https://github.com/irinkesh/Flight-Fare-Predictor/assets/159822614/68204a09-6d5e-4a19-8df4-895e4b9a05ac
+
 
 
 ### Glimpse of the Web App
